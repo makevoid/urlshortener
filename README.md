@@ -1,5 +1,6 @@
 # Urlshorten
 
+**TODO: use OTP following https://ieftimov.com/post/otp-elixir-genserver-build-own-url-shortener/**
 **TODO: Add description**
 
 ## Installation
