@@ -1,1 +1,1 @@
-mix escript.build && ./urlshorten http://rodderscode.co.uk
+mix escript.build && ./urlshorten http://example.com
